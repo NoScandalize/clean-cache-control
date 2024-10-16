@@ -8,5 +8,9 @@
   "keywords": [],
   "author": "Douglas <douglaswesley77@gmail.com>",
   "license": "MIT",
-  "description": ""
+  "description": "",
+  "devDependencies": {
+    "@types/node": "^22.7.5",
+    "typescript": "^5.6.3"
+  }
 }
